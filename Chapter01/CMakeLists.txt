@@ -1,1 +1,1 @@
-add_executable(main main.cpp)
+add_executable(chapter01 main.cpp)
